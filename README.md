@@ -13,13 +13,13 @@ e.g. USDC_Polygon_01-01-2021_07-31-2022
 Dates are formatted as MM-DD-YYY
 
 ## Notes
-These don't work:
+**These don't work:**
 <ul>
   <li>Aggregate TXs</li>
   <li>Aggregate volume</li>
   <li>Supply (native)
     <ul>
-      <li>Fixed by adding Defi Llama supply</li>
+      <li>Fixed by adding Defi Llama supply in the repo</li>
     </ul>
   </li>
 
